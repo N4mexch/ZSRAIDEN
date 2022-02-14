@@ -10,10 +10,10 @@
       "amount": 100000
     }
   ],
-  "cw20TokenAddress": "<token-contract-address>",
-  "start": "<airdrop-start-block-number> OR <unix-timestamp-in-seconds> OR null",
-  "startType": "<height OR timestamp> OR null",
-  "expiration": "<airdrop-end-block-number> OR <unix-timestamp-in-seconds> OR null",
-  "expirationType": "<height OR timestamp> OR null",
-  "totalAmount": "<total-airdropped-token-amount>"
+  "cw20TokenAddress": "<juno1s2hdk5wdt97khekx38aes2d80dpf20wfffgruvqg3vvfp00dtudsmwvkzy>",
+  "start": "<1> OR <1000> OR null",
+  "startType": "<height OR timestamp>",
+  "expiration": "<1000> OR <unix-timestamp-in-seconds>",
+  "expirationType": "<height OR timestamp>",
+  "totalAmount": "<50000>"
 }
